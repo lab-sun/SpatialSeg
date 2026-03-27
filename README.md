@@ -72,4 +72,4 @@ If you use our work in your research, please cite:
 ## 👏 Acknowledgement
 Our network architecture and codebase are built upon [CRM](https://github.com/UkcheolShin/CRM_RGBTSeg?tab=readme-ov-file).
 
-The inspiration and analytical approach of this paper draw from [ZoneEval](https://github.com/Zzh-tju/ZoneEval).
+The inspiration and analytical approach of this paper are draw from [ZoneEval](https://github.com/Zzh-tju/ZoneEval).
