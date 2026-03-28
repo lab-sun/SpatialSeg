@@ -10,7 +10,7 @@
 We propose a **Gaussian-guided regional balancing masking** method to balance segmentation performance across different image regions. Moreover, we introduce a **spatial-weighted loss** to further enhance the overall segmentation performance. Experimental results on MFNet dataset and KP dataset demonstrate the effectiveness of our method in mitigating spatial bias and improving balanced performance.
 
 ## 📂 Dataset
-* Download our pre-processed dataset from [here](https://nas.labsun.org/downloads/2026_tro_spatial/MF_Dataset.zip).
+* Download our pre-processed MF dataset from [here](https://nas.labsun.org/downloads/2026_tro_spatial/MF_Dataset.zip).
 * Download our pre-processed KP dataset from [here](https://nas.labsun.org/downloads/2026_tro_spatial/KP_Dataset.zip).
 
 Place them in the 'datasets' folder in the following structure:
