@@ -60,13 +60,15 @@ We offer the pre-trained weights on two RGB-T semantic segmentation dataset.
 If you use our work in your research, please cite:
 
 ```
-    @article{li2026spatialseg,
-      title={Spatial Balancing for RGB-Thermal Semantic Segmentation in Autonomous Driving: A Study from Analysis to Improvement},
-      author={Li, Haotian and Chu, Henry K and Sun, Yuxiang},
-      journal={IEEE Transactions on Robotics},
-      year={2026},
-      publisher={IEEE}
-    }
+@ARTICLE{li2026spatial,
+  author={Haotian Li and Henry K. Chu and Yuxiang Sun},
+  journal={IEEE Transactions on Robotics}, 
+  title={Spatial Balancing for RGB-Thermal Semantic Segmentation in Autonomous Driving: A Study From Analysis to Improvement}, 
+  year={2026},
+  volume={42},
+  number={},
+  pages={1840-1855},
+  doi={10.1109/TRO.2026.3677009}}
 ```
 
 ## 👏 Acknowledgement
